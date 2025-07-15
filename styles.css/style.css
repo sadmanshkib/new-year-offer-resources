@@ -295,3 +295,47 @@ input::placeholder {
   opacity: 0.7;
   padding-left: 30px;
 }
+footer{
+    background-color: #070211;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 120px ;
+    
+
+}
+.footer-text{
+    font-weight: 600;
+    font-size: 24px; 
+    color: #FFFFFF;
+
+}
+.footer-p1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1185px;
+}
+hr{
+    color: rgba(255, 255, 255, 0.15);
+    width: 100%;
+}
+.footer-p2{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.footer-ts{
+    width: 375px;
+}
+.footer-p2 a{
+    text-decoration: none;
+
+}
+.footer-icon{
+    margin: 48px auto;
+
+}
+body{
+    margin: 0;
+}
